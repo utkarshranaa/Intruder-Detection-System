@@ -1,0 +1,1 @@
+python detect_track_UI.py --source videos/sample.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.5 --img-size 1280 --device 0 --view-img
