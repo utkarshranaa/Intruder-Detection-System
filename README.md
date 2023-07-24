@@ -2,7 +2,7 @@ Intrusion Detection using YOLOR Algorithm
 
 Overview
 
-This repository showcases an innovative intrusion detection system based on the YOLOR (You Only Look Once with Re-Score) algorithm. The primary objective of this project is to enhance security and detect potential intrusions in real-time, enabling timely responses to mitigate security risks.
+This repository showcases an innovative intrusion detection system based on the YOLOR (You Only Look Once Representation) algorithm. The primary objective of this project is to enhance security and detect potential intrusions in real-time, enabling timely responses to mitigate security risks.
 
 YOLOR Algorithm
 
