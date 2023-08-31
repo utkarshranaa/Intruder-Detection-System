@@ -6,7 +6,7 @@ This repository showcases an innovative intrusion detection system based on the 
 
 YOLOR Algorithm
 
-YOLOR is an advanced object detection algorithm, combining the principles of You Only Look Once (YOLO) and Re-Score. It excels in real-time detection of multiple objects, including unauthorized entities attempting to breach security perimeters.
+YOLOR is an advanced object detection algorithm, combining the principles of You Only Look Once (YOLO) and Re-Score. It excels in real-time detection of multiple objects, including unauthorized entities attempting to breach security parameters.
 
 Dataset
 
